@@ -1,0 +1,35 @@
+
+.bar {
+  font-size:20px;font-family: 'Open Sans Condensed', sans-serif;
+ 
+}
+
+.name {
+font-size: 50px; 
+font-family: 'Varela Round', sans-serif;
+
+}
+
+
+
+
+.text { 
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin: auto;
+	max-width: 500px;
+
+ }
+
+
+
+
+
+
+.container{
+	display: flex;
+
+justify-content: center;
+
+}
+.container  { 
+margin-right: 10px; }
